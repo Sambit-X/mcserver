@@ -225,23 +225,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-09-03 18:49:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:stony_peaks": "2025-09-03 18:53:34 +0000",
-      "minecraft:lukewarm_ocean": "2025-09-03 18:56:36 +0000",
-      "minecraft:river": "2025-09-03 18:58:40 +0000",
-      "minecraft:stony_shore": "2025-09-03 18:57:30 +0000",
-      "minecraft:ocean": "2025-09-03 18:56:58 +0000",
-      "minecraft:savanna": "2025-09-03 18:53:16 +0000"
-    },
-    "done": false
-  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-09-03 18:58:17 +0000"
@@ -305,6 +288,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-09-03 18:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-09-03 18:49:34 +0000"
     },
     "done": true
   },
@@ -391,6 +380,17 @@
       "in_water": "2025-09-03 18:58:17 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_peaks": "2025-09-03 18:53:34 +0000",
+      "minecraft:lukewarm_ocean": "2025-09-03 18:56:36 +0000",
+      "minecraft:river": "2025-09-03 18:58:40 +0000",
+      "minecraft:stony_shore": "2025-09-03 18:57:30 +0000",
+      "minecraft:ocean": "2025-09-03 18:56:58 +0000",
+      "minecraft:savanna": "2025-09-03 18:53:16 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
