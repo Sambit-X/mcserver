@@ -13969,3 +13969,14 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [03Sep2025 21:08:05.781] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
 [03Sep2025 21:08:16.683] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in planetsplus:diater
 [03Sep2025 21:08:31.693] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in planetsplus:titan_orbit
+[03Sep2025 21:08:35.684] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in planetsplus:charon_orbit
+[03Sep2025 21:08:35.831] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[03Sep2025 21:08:35.831] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[03Sep2025 21:08:35.831] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[03Sep2025 21:08:36.683] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:venus_orbit
+[03Sep2025 21:08:55.691] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in planetsplus:reveda
+[03Sep2025 21:09:05.882] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[03Sep2025 21:09:05.886] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[03Sep2025 21:09:05.887] [pool-7-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[03Sep2025 21:09:13.682] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in ad_astra:venus
+[03Sep2025 21:09:13.683] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in planetsplus:enceladus_orbit
