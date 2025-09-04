@@ -1,7 +1,7 @@
 # mcserver
 
 sudo apt-get update
-sudo apt install openjdk-17-jdk-headless
+sudo apt-get install -y openjdk-17-jdk-headless
 curl -fsSL https://tailscale.com/install.sh | sh
 
 cd forge
