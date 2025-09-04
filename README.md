@@ -1,3 +1,4 @@
+git pull --rebase origin <branch-name> ( if you do it again )
 # mcserver
 
 sudo apt-get update
