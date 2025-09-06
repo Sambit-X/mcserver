@@ -7,4 +7,5 @@ curl -fsSL https://tailscale.com/install.sh | sh
 
 cd forge
 sh run.sh
+sudo tailscale up
 sudo tailscaled --tun=userspace-networking --socks5-server=localhost:1055 &

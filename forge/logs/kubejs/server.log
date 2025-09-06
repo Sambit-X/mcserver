@@ -1,22 +1,17 @@
-[10:02:35] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[10:02:35] [INIT] Loaded plugins:
-[10:02:35] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[10:02:35] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
-[10:02:37] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[10:02:37] [INFO] Loaded script server_scripts:example.js in 0.008 s
-[10:02:37] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/ia/properties.js in 0.001 s
-[10:02:37] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/string_property_variable_test.js in 0.002 s
-[10:02:37] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/camera.js in 0.0 s
-[10:02:37] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/key.js in 0.0 s
-[10:02:37] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/receive_power_selected.js in 0.0 s
-[10:02:37] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/death_no_armour.js in 0.0 s
-[10:02:37] [INFO] Loaded 7/7 KubeJS server scripts in 0.048 s with 0 errors and 0 warnings
-[10:02:37] [INFO] Scripts loaded
-[10:02:42] [INFO] [minecraft:item] Found 2100 tags, added 1 objects, removed 0 objects
-[10:02:42] [INFO] [minecraft:block] Found 753 tags, added 1 objects, removed 0 objects
-[10:03:02] [INFO] Server resource reload complete!
-[10:07:42] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
-[10:09:35] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
-[10:15:15] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
-[10:17:17] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
-[10:17:50] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[13:56:36] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[13:56:36] [INIT] Loaded plugins:
+[13:56:36] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[13:56:36] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[13:56:38] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[13:56:38] [INFO] Loaded script server_scripts:example.js in 0.004 s
+[13:56:38] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/ia/properties.js in 0.001 s
+[13:56:38] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/string_property_variable_test.js in 0.002 s
+[13:56:38] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/camera.js in 0.001 s
+[13:56:38] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/key.js in 0.0 s
+[13:56:38] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/receive_power_selected.js in 0.0 s
+[13:56:38] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/death_no_armour.js in 0.001 s
+[13:56:38] [INFO] Loaded 7/7 KubeJS server scripts in 0.033 s with 0 errors and 0 warnings
+[13:56:38] [INFO] Scripts loaded
+[13:56:47] [INFO] [minecraft:item] Found 2100 tags, added 1 objects, removed 0 objects
+[13:56:47] [INFO] [minecraft:block] Found 753 tags, added 1 objects, removed 0 objects
+[13:57:16] [INFO] Server resource reload complete!
