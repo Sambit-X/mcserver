@@ -101,6 +101,8 @@
       "shrubland": "2025-09-03 18:23:07 +0000",
       "rocky_shrubland": "2025-09-04 09:39:45 +0000",
       "scrubland": "2025-09-03 18:49:12 +0000",
+      "floodplain": "2025-09-07 17:03:25 +0000",
+      "lush_savanna": "2025-09-07 17:06:10 +0000",
       "highland": "2025-09-03 18:21:34 +0000",
       "jacaranda_glade": "2025-09-03 20:56:52 +0000",
       "jade_cliffs": "2025-09-03 18:18:19 +0000",
@@ -112,15 +114,19 @@
       "coniferous_forest": "2025-09-04 08:31:47 +0000",
       "forested_field": "2025-09-04 09:10:29 +0000",
       "spider_nest": "2025-09-04 08:34:50 +0000",
+      "wasteland": "2025-09-07 17:05:39 +0000",
+      "lush_desert": "2025-09-07 17:04:38 +0000",
       "redwood_forest": "2025-09-03 18:21:04 +0000",
       "aspen_glade": "2025-09-04 11:23:12 +0000",
       "seasonal_forest": "2025-09-04 12:47:02 +0000",
+      "rocky_rainforest": "2025-09-07 17:03:24 +0000",
       "lavender_field": "2025-09-03 20:57:43 +0000",
       "pumpkin_patch": "2025-09-04 08:33:44 +0000",
       "prairie": "2025-09-03 18:49:02 +0000",
       "snowy_coniferous_forest": "2025-09-03 21:05:52 +0000",
       "snowy_fir_clearing": "2025-09-04 08:31:39 +0000",
       "glowing_grotto": "2025-09-03 18:32:54 +0000",
+      "rainforest": "2025-09-07 17:04:11 +0000",
       "crag": "2025-09-03 18:32:53 +0000",
       "snowy_maple_woods": "2025-09-03 21:01:50 +0000"
     },
@@ -260,6 +266,7 @@
       "minecraft:frozen_ocean": "2025-09-04 09:08:38 +0000",
       "minecraft:ocean": "2025-09-03 18:56:58 +0000",
       "minecraft:snowy_beach": "2025-09-03 21:01:00 +0000",
+      "minecraft:warm_ocean": "2025-09-07 17:09:35 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-09-03 20:11:43 +0000",
       "minecraft:deep_dark": "2025-09-04 08:35:41 +0000",
       "minecraft:savanna": "2025-09-03 18:53:16 +0000"
@@ -566,9 +573,10 @@
   },
   "cobblemon:recipes/balls/beast_ball": {
     "criteria": {
+      "has_echo_shard": "2025-09-07 16:46:27 +0000",
       "has_diamond": "2025-09-03 20:17:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
@@ -675,7 +683,8 @@
   "cobblemon:obtain_all_berries": {
     "criteria": {
       "obtain_tamato_berry": "2025-09-05 12:28:27 +0000",
-      "obtain_persim_berry": "2025-09-03 20:18:53 +0000"
+      "obtain_persim_berry": "2025-09-03 20:18:53 +0000",
+      "obtain_rindo_berry": "2025-09-07 16:59:27 +0000"
     },
     "done": false
   },
@@ -3489,6 +3498,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "sky": "2025-09-07 17:13:00 +0000",
       "earth": "2025-09-04 10:49:47 +0000"
     },
     "done": false
@@ -4197,7 +4207,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-09-05 13:26:28 +0000"
+      "in_better_spider_dungeon": "2025-09-05 13:26:28 +0000",
+      "in_better_monster_room": "2025-09-07 17:04:49 +0000"
     },
     "done": false
   },
@@ -4565,6 +4576,228 @@
   "legends_untold:xerneas_tree": {
     "criteria": {
       "xerneas_tree": "2025-09-06 09:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2025-09-07 16:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-09-07 17:13:00 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_leek": {
+    "criteria": {
+      "check_inv": "2025-09-07 17:01:31 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/medicinal_leek_to_magenta_dye": {
+    "criteria": {
+      "has_leek": "2025-09-07 17:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-07 17:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-07 17:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-09-07 17:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-07 17:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-09-07 17:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-09-07 17:04:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_all_balls": {
+    "criteria": {
+      "ultra_ball": "2025-09-07 17:17:54 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:craft_poke_ball": {
+    "criteria": {
+      "requirement": "2025-09-07 17:17:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-09-07 17:15:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2025-09-07 17:05:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-09-07 17:12:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-07 17:15:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-09-07 17:15:10 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/sonic_gun": {
+    "criteria": {
+      "has_echo_shard": "2025-09-07 16:46:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-09-07 17:13:00 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
+    "criteria": {
+      "has_leek": "2025-09-07 17:01:31 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-09-07 16:44:44 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek": {
+    "criteria": {
+      "has_leek": "2025-09-07 17:01:31 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/decorations/bottle_stack": {
+    "criteria": {
+      "has_potion": "2025-09-07 16:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-09-07 17:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-09-07 16:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-09-07 16:46:27 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
+    "criteria": {
+      "has_leek": "2025-09-07 17:01:31 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/eviolite": {
+    "criteria": {
+      "has_everstone": "2025-09-07 16:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-09-07 17:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-09-07 16:49:55 +0000"
     },
     "done": true
   },
