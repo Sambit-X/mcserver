@@ -1,24 +1,72 @@
-[07:16:10] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[07:16:10] [INIT] Loaded plugins:
-[07:16:10] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[07:16:10] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
-[07:16:12] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[07:16:12] [INFO] Loaded script server_scripts:example.js in 0.001 s
-[07:16:12] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/ia/properties.js in 0.0 s
-[07:16:12] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/string_property_variable_test.js in 0.001 s
-[07:16:12] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/receive_power_selected.js in 0.0 s
-[07:16:12] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/key.js in 0.0 s
-[07:16:12] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/camera.js in 0.0 s
-[07:16:12] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/death_no_armour.js in 0.001 s
-[07:16:12] [INFO] Loaded 7/7 KubeJS server scripts in 0.027 s with 0 errors and 0 warnings
-[07:16:12] [INFO] Scripts loaded
-[07:16:17] [INFO] [minecraft:block] Found 753 tags, added 1 objects, removed 0 objects
-[07:16:17] [INFO] [minecraft:item] Found 2100 tags, added 1 objects, removed 0 objects
-[07:16:37] [INFO] Server resource reload complete!
-[07:28:05] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
-[07:29:24] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
-[07:36:05] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
-[07:36:13] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
-[07:36:18] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
-[07:36:18] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
-[07:36:42] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:12:30] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[15:12:30] [INIT] Loaded plugins:
+[15:12:30] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[15:12:30] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[15:12:32] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[15:12:32] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[15:12:32] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/string_property_variable_test.js in 0.002 s
+[15:12:32] [INFO] Loaded script addonpack_satsu_iron_man_addon:kubejs_scripts/ia/properties.js in 0.0 s
+[15:12:32] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/camera.js in 0.0 s
+[15:12:32] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/death_no_armour.js in 0.0 s
+[15:12:32] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/receive_power_selected.js in 0.001 s
+[15:12:32] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/key.js in 0.0 s
+[15:12:32] [INFO] Loaded 7/7 KubeJS server scripts in 0.032 s with 0 errors and 0 warnings
+[15:12:32] [INFO] Scripts loaded
+[15:12:37] [INFO] [minecraft:item] Found 2100 tags, added 1 objects, removed 0 objects
+[15:12:37] [INFO] [minecraft:block] Found 753 tags, added 1 objects, removed 0 objects
+[15:12:57] [INFO] Server resource reload complete!
+[15:24:05] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:24:32] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:30:01] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:31:48] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:32:30] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:32:43] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:32:51] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:33:14] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:34:07] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:34:25] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:34:57] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:35:56] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:39:53] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:39:54] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:40:04] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:40:12] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:40:51] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:41:50] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:43:31] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:43:38] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:43:43] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:44:44] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:44:45] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:44:47] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:44:47] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:44:48] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:44:49] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:44:49] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:44:50] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:44:50] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:44:50] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:44:51] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:44:52] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:44:53] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:44:59] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:48:51] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:49:46] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[15:50:51] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[16:03:03] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[16:04:15] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[16:06:36] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[16:06:46] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[16:07:35] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[16:08:43] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[16:09:12] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[16:09:14] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[16:09:26] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[16:09:28] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[16:09:36] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[16:15:32] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[16:32:03] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[16:36:02] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[16:37:40] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[16:43:40] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
+[16:45:44] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "getGameProfile" of null
