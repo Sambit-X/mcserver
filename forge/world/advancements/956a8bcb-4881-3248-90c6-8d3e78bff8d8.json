@@ -4579,7 +4579,61 @@
     },
     "done": true
   },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-09-07 16:44:44 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/sonic_gun": {
+    "criteria": {
+      "has_echo_shard": "2025-09-07 16:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-09-07 16:46:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
     },
@@ -4591,15 +4645,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
+      "has_enchanted_golden_apple": "2025-09-07 16:49:55 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+  "xkdeco:recipes/decorations/bottle_stack": {
     "criteria": {
-      "has_item": "2025-09-07 17:13:00 +0000"
+      "has_potion": "2025-09-07 16:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-09-07 16:50:37 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/eviolite": {
+    "criteria": {
+      "has_everstone": "2025-09-07 16:59:26 +0000"
     },
     "done": true
   },
@@ -4615,27 +4681,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+  "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
     "criteria": {
-      "has_raw_gold": "2025-09-07 17:06:55 +0000"
+      "has_leek": "2025-09-07 17:01:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
+  "cobblemon:recipes/consumables/roasted_leek": {
     "criteria": {
-      "has_gold_nugget": "2025-09-07 17:15:11 +0000"
+      "has_leek": "2025-09-07 17:01:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall": {
+  "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
     "criteria": {
-      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
+      "has_leek": "2025-09-07 17:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-09-07 17:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-09-07 17:04:24 +0000"
     },
     "done": true
   },
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2025-09-07 17:04:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2025-09-07 17:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-07 17:06:55 +0000"
     },
     "done": true
   },
@@ -4651,9 +4741,51 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "tconstruct:world/sky_island": {
     "criteria": {
-      "obsidian": "2025-09-07 17:04:24 +0000"
+      "found_island": "2025-09-07 17:12:51 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-09-07 17:13:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-09-07 17:13:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-09-07 17:13:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-09-07 17:15:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-07 17:15:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-09-07 17:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-07 17:15:11 +0000"
     },
     "done": true
   },
@@ -4669,135 +4801,69 @@
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_blocks": {
     "criteria": {
-      "has_item": "2025-09-07 17:15:11 +0000"
+      "has_item": "2025-09-12 07:20:26 +0000"
     },
     "done": true
   },
-  "aether:recipes/misc/aether_tune_enchanting": {
+  "ad_astra:recipes/misc/steel_ingot_from_steel_block": {
     "criteria": {
-      "has_disc": "2025-09-07 17:05:01 +0000"
+      "has_steel_ingot": "2025-09-12 07:20:26 +0000"
     },
     "done": true
   },
-  "tconstruct:world/sky_island": {
+  "ad_astra:recipes/misc/steel_block": {
     "criteria": {
-      "found_island": "2025-09-07 17:12:51 +0000"
+      "has_steel_block": "2025-09-12 07:20:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "ad_astra:tier_1_rocket": {
     "criteria": {
-      "has_gold_nugget": "2025-09-07 17:15:11 +0000"
+      "has_tier_1_rocket": "2025-09-12 07:35:55 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/golden_gloves_repairing": {
+  "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_2_rocket_from_nasa_workbench": {
     "criteria": {
-      "has_golden_gloves": "2025-09-07 17:15:10 +0000"
+      "has_item": "2025-09-12 07:25:52 +0000"
     },
     "done": true
   },
-  "grave.core:recipes/sonic_gun": {
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
     "criteria": {
-      "has_echo_shard": "2025-09-07 16:46:27 +0000"
+      "has_item": "2025-09-12 07:20:30 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+  "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_1_rocket_from_nasa_workbench": {
     "criteria": {
-      "has_item": "2025-09-07 17:13:00 +0000"
+      "has_item": "2025-09-12 07:25:52 +0000"
     },
     "done": true
   },
-  "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
+  "ad_astra:rocket_science": {
     "criteria": {
-      "has_leek": "2025-09-07 17:01:31 +0000"
+      "has_nasa_workbench": "2025-09-12 07:25:52 +0000"
     },
     "done": true
   },
-  "deeperdarker:main/find_ancient_city": {
+  "ad_astra:recipes/misc/steel_nugget": {
     "criteria": {
-      "ancient_city": "2025-09-07 16:44:44 +0000"
+      "has_steel_nugget": "2025-09-12 07:20:30 +0000"
     },
     "done": true
   },
-  "cobblemon:recipes/consumables/roasted_leek": {
+  "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_3_rocket_from_nasa_workbench": {
     "criteria": {
-      "has_leek": "2025-09-07 17:01:31 +0000"
+      "has_item": "2025-09-12 07:25:52 +0000"
     },
     "done": true
   },
-  "xkdeco:recipes/decorations/bottle_stack": {
+  "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_4_rocket_from_nasa_workbench": {
     "criteria": {
-      "has_potion": "2025-09-07 16:50:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
-    "criteria": {
-      "has_item": "2025-09-07 17:13:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-09-07 16:50:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/recovery_compass": {
-    "criteria": {
-      "has_echo_shard": "2025-09-07 16:46:27 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
-    "criteria": {
-      "has_leek": "2025-09-07 17:01:31 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/eviolite": {
-    "criteria": {
-      "has_everstone": "2025-09-07 16:59:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-09-07 16:49:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-09-07 17:04:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-09-07 16:49:55 +0000"
+      "has_item": "2025-09-12 07:25:52 +0000"
     },
     "done": true
   },
