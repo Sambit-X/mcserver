@@ -2,7 +2,9 @@ git pull --rebase origin <branch-name> ( if you do it again )
 # mcserver
 
 sudo apt-get update
+
 sudo apt-get install -y openjdk-17-jdk-headless
+
 curl -fsSL https://tailscale.com/install.sh | sh
 
 cd forge
